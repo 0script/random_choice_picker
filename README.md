@@ -6,7 +6,7 @@
 * [Setup](#setup)
 
 ##About the project
-  This script will randomly make a selection amongs the choice enter by the user.
+  At first the user will enter different values separated by comma in the input area . Once he press enter the script will randomly make a selection amongs the choice enter by the user with a little animation and at the end the item selected will be highlight the selected item.
 
 ##Technologies
 * HTML
