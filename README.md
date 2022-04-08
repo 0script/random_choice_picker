@@ -15,7 +15,8 @@
 * JavaScript
 
 ##Setup
-  Download the project then run the index page on your favorite browser
+
+   Download the project then run the index page on your favorite browser
   ```shell
   #download
   $git clone  git@github.com:0script/random_choice_picker.git
